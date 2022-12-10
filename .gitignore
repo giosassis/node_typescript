@@ -63,4 +63,4 @@ typings/
 # typescript compiled code
 dist/
 
-yar.lock
+yarn.lock
